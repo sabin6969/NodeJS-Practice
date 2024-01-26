@@ -1,0 +1,15 @@
+NodeJS is a run time environment that is used for backend scripting
+NodeJS is built on top of V8 engine 
+Ryan Dahl embeeded C++ on top of v8 engine to create NodeJS 
+
+
+Node and express are diferrent
+
+Node -->runtime enviroment for JavaScript
+express -->framework for NodeJS
+
+
+command to run 
+node filename.js 
+or 
+npm run scriptname
